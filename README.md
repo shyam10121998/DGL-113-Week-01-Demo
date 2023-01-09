@@ -32,7 +32,12 @@ In the HTML body, replace the Pro pricing of `15` with a call to
 Do the same for the Enterprise pricing.
 
 ```HTML
-<script>document.write( proPrice );</script>
+<script>document.write( enterprisePrice );</script>
 ```
 
+This post describes how to <a 
+href="https://www.koehler.ca/2023/01/08/client-side-javascript-development-github"
+target="_blank">
+set up your local development
+environment</a>.
 
