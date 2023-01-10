@@ -8,7 +8,7 @@ The automated tests check for an `alert()`, some JavaScript variables,
 and some content injected into the HTML using `document.write()`.
 
 If you want to pass the tests, add the script with the `alert()` just
-inside the opening `<head>` tag.
+inside the opening `<head>` tag of the `docs/index.html` file.
 
 ```html
 <script>
